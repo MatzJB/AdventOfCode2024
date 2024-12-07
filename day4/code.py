@@ -1,7 +1,5 @@
 import numpy as np
 import re
-
-
 inputFilename= 'input.txt'
 
 def loadASCIIMatrix(inputFilename):
